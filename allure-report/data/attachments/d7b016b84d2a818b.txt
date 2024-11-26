@@ -1,0 +1,3 @@
+0
+1
+Test Passed Successfully, vehicle Deleted!!

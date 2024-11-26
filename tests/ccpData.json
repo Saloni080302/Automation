@@ -1,0 +1,57 @@
+{
+    "Create":{
+    "placeholderfuso" : "New",
+    "tAROU" : "User",
+    "fuso": "New",
+    "Employeecode" : "A0001",
+    "Department" : "IT",
+    "Title" : "Manager",
+    "EmployeecodeEmpty" : "",
+    "DepartmentEmpty" : "",
+    "TitleEmpty" : "",
+    "Telephone" : "12345678912"
+   
+}
+,
+"Edit":{
+    "placeholderfuso" : "Manish",
+    "tAROU" : "Singh",
+    "fuso": "Manish",
+    "Employeecode" : "A0003",
+    "Department" : "IT",
+    "Title" : "Associate",
+    "EmployeecodeEmpty" : "",
+    "DepartmentEmpty" : "",
+    "TitleEmpty" : "",
+    "Telephone" : "33333663333"
+},
+
+"BranchCreate" :{
+    "postalcode" : "1000-345",
+    "prefectures" : "Tokyo",
+    "municipalities": "kodokawa, kodokawa ,basem",
+    "streetAddress" : "4-5-6",
+    "BuildingName" : "CB-456,First Floor",
+    "telephone" : "56785432982"
+},
+
+"BranchEdit" :{
+    "postalcode" : "131001",
+    "prefectures" : "Shinagawa",
+    "municipalities": "Rohtak",
+    "streetAddress" : "7-8-9",
+    "BuildingName" : "CB-542,First Maala",
+    "telephone" : "9999987879"
+},
+
+    "BasicInfoEdit" :{
+        "placeholderfuso" : "First",
+        "tAROU" : "Last",
+        "fuso": "Furigana",
+        "Employeecode" : "24080021",
+        "Department" : "IT",
+        "Title" : "Associate",
+        "Telephone" : "3333366333"
+}
+
+}
